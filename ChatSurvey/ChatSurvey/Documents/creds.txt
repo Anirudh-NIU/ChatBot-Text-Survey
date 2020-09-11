@@ -1,0 +1,15 @@
+rsconnect::setAccountInfo(name='anirudh-niu', token='8A2E4EA1A2E2793CC33132DE5AA4C7F8', secret='osF8kGnoCcVUu6jpvw2mXqzufnwn6RR1rb4ePZ5E')
+
+
+google api key
+AIzaSyDSWfhwC7PAbVIiM1huYmMLfP5tlUJqFlI
+
+DROPBOX1
+sl.AfkP0L-2R0VbZx_OJf1tq1aAs93vXW-CLCfthhaS0fKSg2CW1VEzijpj5j9NIKkG4RW8KDhokO_QfcCjeQmHFejdjNG-pzBNumS5FiSH30hojbqIWUWoVSUAqr7KoaPoVpKZHT9h
+DROPBOX2
+App key
+cnjuhtcbqstasmv
+App secret
+82gvtsvpi0e1vgb
+ghm47J14yaAAAAAAAAAAAajxqKhNwpLYGHjHB1tdNu2G1OK_fCvtiVm1nVq4kcaJ
+Q_AY_lIb_oAAAAAAAAAAAUyYlMjP75KJHs1inv3qE_-_XNx-OuXGKsTE3eJbUSNB
